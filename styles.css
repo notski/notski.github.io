@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+.body {
+  font-family: Quicksand;
+  background: black;
+}
+
+.navbar {
+}
+
+.navbar-brand {
+  font-family: Quicksand;
+  font-size: 200%;
+}
+
+.navbar-collapse {
+  font-family: Quicksand;
+}
+
+.about {
+  background: url("https://s31.postimg.org/mm467fhg9/Sky_volcano_dark.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding-top: 50px;
+}
+
+.projects {
+  background: #0C0D12;
+  min-height: 400px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.contact {
+  background: url("https://s31.postimg.org/9m3yeiw5l/sky_night_stars_bottom.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding-bottom: 50px;
+}
+
+.about h1 {
+  font-family: Quicksand;
+  font-weight: normal;
+  font-size: 500%;
+  color: #cecece;
+}
+
+.projects h1 {
+  font-family: Quicksand;
+  font-weight: normal;
+  font-size: 220%;
+  color: #cecece;
+  padding-bottom: 5px;
+}
+
+.projects p {
+  font-family: Quicksand;
+  font-size: 100%;
+  color: #cecece;
+  text-align: justify;
+  text-align: center;
+}
+
+.about p {
+  font-family: Quicksand;
+  font-size: 100%;
+  color: #cecece;
+  text-align: justify;
+}
+
+.col-center {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.contact h1 {
+  font-family: Quicksand;
+  font-weight: normal;
+  font-size: 220%;
+  color: #cecece;
+  padding-bottom: 5px;
+}
+
+.contact p {
+  font-family: Quicksand;
+  font-size: 100%;
+  color: #cecece;
+  text-align: justify center;
+}
+
+.projSite {
+  padding: 40px;
+}
+
+.social {
+  color: #cecece;
+  padding: 5px 20px 30px 20px;
+}
