@@ -6,15 +6,12 @@
 }
 
 .navbar {
+    font-family: Quicksand;
 }
 
 .navbar-brand {
   font-family: Quicksand;
   font-size: 200%;
-}
-
-.navbar-collapse {
-  font-family: Quicksand;
 }
 
 .about {
